@@ -58,3 +58,5 @@ http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-name="Disney Channel Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/220px-2019_Disney_Channel_logo.svg.png" tvg-id="DisneyChannelJapan.jp" group-title="Japan",Disney Channel Japan
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+#EXTINF:-1 group-title="BS",fuji tv 4
+https://fujitv4.mov3.co/hls/fujitv.m3u8
