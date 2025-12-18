@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-id="SkySp.F1.uk" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="Sports Temp 1",UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1 group-title="未分类",UK Sky Sports F1 FHD (D)
+http://cord-cutter.net:8080/81945791/05013455/53704
+#EXTINF:-1 group-title="未分类",UK Sky Sports F1 FHD
+http://cord-cutter.net:8080/81945791/05013455/35244
